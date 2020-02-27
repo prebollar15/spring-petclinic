@@ -3,7 +3,7 @@ Submission file for CI Assignement
 
 
 1.) Your Travis CI dashboard showing a successful first build.
-![Successful Fork](images/spring_petClinic_fork_success.png)
+![Successful Fork](images/travis_ci_first_build.png)
 
 
 2.) The section of the POM file showing the coordinates after you’ve changed them.
