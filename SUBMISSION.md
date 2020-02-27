@@ -11,7 +11,7 @@ Submission file for CI Assignement
 
 
 3.) Your Travis CI dashboard showing a successful build after your change of the group ID.
-![Travis First Build](images/travis_ci_first_build.png)
+![Travis First Build](images/travis_ci_second_build.png)
 
 
 4.) The section of the POM file showing the coordinates after you’ve commented them out.
